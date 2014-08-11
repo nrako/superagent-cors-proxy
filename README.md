@@ -3,7 +3,7 @@ superagent-cors-proxy
 
 Superagent extension to perform CORS requests via an iframe proxy for old IE :gun:.
 
-XDomainRequest === :poop:
+XDomainRequest === :poop: - :smile:
 
 This will automatically proxy all cross-domain requests via a proxy. This use postMessage to communicate to the iframe/parent passed in argument.
 
