@@ -1,7 +1,7 @@
 superagent-cors-proxy
 =====================
 
-Superagent extension to perform CORS requests via an iframe proxy for old IE :.
+Superagent extension to perform CORS requests via an iframe proxy for old IE :gun:.
 
 XDomainRequest === :poop:
 
@@ -15,7 +15,7 @@ It won't try to perform CORS, it's your duty to use that only when it's necessar
 
 ## Usage
 
-### Client
+### Shim Client
 
 In a shim IE <10 version.
 
@@ -41,7 +41,6 @@ var request = require('superagent');
 require('superagent-cors-proxy')(request, null, window.parent);
 
 ```
-
 
 ## License
 
