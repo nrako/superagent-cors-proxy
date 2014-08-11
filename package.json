@@ -3,6 +3,16 @@
   "version": "0.0.0",
   "description": "superagent extension to perform CORS requests via an iframe proxy",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nrako/superagent-cors-proxy.git"
+  },
+  "keywords": [
+    "superagent",
+    "cors",
+    "proxy",
+    "XDomainRequest"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
