@@ -1,0 +1,11 @@
+{
+  "name": "superagent-cors-proxy",
+  "version": "0.0.0",
+  "description": "superagent extension to perform CORS requests via an iframe proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@nrako",
+  "license": "MIT"
+}
